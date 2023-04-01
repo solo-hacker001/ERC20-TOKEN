@@ -1,5 +1,3 @@
-TECH4DEV BLOCKCHAIN TRACK MINI PROJECT
-
 An Erc20 with Name Tech4dev, Symbol T4D and Decimals 18 deployed on Ethereum Testnet, Binance Testnet and Polygon Testnet.
 
 Kindly click on links below to view Tech4devToken on Testnets:
